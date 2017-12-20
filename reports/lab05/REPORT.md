@@ -1,4 +1,4 @@
-## Laboratory work V
+# Laboratory work V
 
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
 
@@ -21,7 +21,7 @@ $ open https://travis-ci.org
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=Nikita-16VIU10M
+$ export GITHUB_USERNAME=<имя_пользователя>
 $ export GITHUB_TOKEN=<полученный_токен>
 ```
 
