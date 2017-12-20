@@ -23,8 +23,8 @@ $ open https://travis-ci.org
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=<имя_пользователя>
-$ export GITHUB_TOKEN=<полученный_токен>
+$ export GITHUB_USERNAME=Nikita-16VIU10M
+$ export GITHUB_TOKEN=9e7b8e9ac126169e284581917071c81837dda427
 ```
 
 ```ShellSession
